@@ -1,0 +1,7 @@
+{
+  "name": "ConvertMoney",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
