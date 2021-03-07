@@ -1,2 +1,2 @@
 # ionic-vue-currency
-Convert Euro Into Other Currencies
+Convert euro into other currencies
